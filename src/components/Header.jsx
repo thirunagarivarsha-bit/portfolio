@@ -2,8 +2,8 @@ import profile from "./profile.jpg";
 function Header() {
   return (
     <header>
-      <img src="src/components/profile.jpg" alt="Profile" className="profile-pic" />
-      <h1>Thirunagari Varsha</h1>
+      <img src={profile} alt="Profile" className="profile-pic" />
+    <h1>Thirunagari Varsha</h1>
       <p>Student | Web Development Learner</p>
     </header>
   );
