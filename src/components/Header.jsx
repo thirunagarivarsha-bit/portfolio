@@ -1,3 +1,4 @@
+import profile from "./profile.jpg";
 function Header() {
   return (
     <header>
