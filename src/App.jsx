@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import profile from "./assets/profile.jpg";
+import profile from "./profile.jpg";
 
 const projects = [
   {
