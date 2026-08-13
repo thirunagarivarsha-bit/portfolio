@@ -248,14 +248,14 @@ function App() {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/varsha996aa"
                 target="_blank"
                 rel="noreferrer"
               >
                 LinkedIn ↗
               </a>
 
-              <a href="mailto:your-email@example.com">Email ↗</a>
+              <a href="mailto:thirunagarivarsha66@gmail.com">Email ↗</a>
             </div>
           </div>
 
